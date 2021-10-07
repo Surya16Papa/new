@@ -1,0 +1,3 @@
+/home/surya16p/Desktop/hello/build/CMakeFiles/rebuild_cache.dir
+/home/surya16p/Desktop/hello/build/CMakeFiles/edit_cache.dir
+/home/surya16p/Desktop/hello/build/CMakeFiles/hello.dir
